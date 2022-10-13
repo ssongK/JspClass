@@ -4,11 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>현재 위치 : include.jsp 파일</title>
+<title>8장 연습문제 4</title>
 </head>
 <body>
-	<jsp:include page="include_process.jsp" flush="true"/>
-	<br><br>
-	~~~~~~~~~ end ~~~~~~~~~~~
+	Home > 파일의 현재 위치 : test08_04.jsp
+	<hr>
+	안녕하세요.<br>
+	여기는 test08_04.jsp 파일의 내용입니다.
 </body>
 </html>

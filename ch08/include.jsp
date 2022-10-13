@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>현재 위치 : include.jsp 파일</title>
+<title>forward 액션 태그</title>
 </head>
 <body>
-	<jsp:include page="include_process.jsp" flush="true"/>
-	<br><br>
-	~~~~~~~~~ end ~~~~~~~~~~~
+	Home > forward 액션 태그로 페이지 요청
+	<jsp:forward page="forward_process.jsp"/>
 </body>
 </html>
