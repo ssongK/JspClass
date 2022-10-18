@@ -8,19 +8,19 @@
 </head>
 <body>
 	<h3> 자기 소개서 폼 작성 </h3><hr>
-	<form action="#" method="get">
+	<form name="loginForm" action="test04_05_02.jsp" method="get">
 		<fieldset style="width:300px"> 
 			<legend>개인 정보</legend>
 			닉네임 :
 			<input type="text" name="id">&nbsp;<input type="button" value="중복검사"><br><br>
 			성별 :
-			<input type="radio" name="gender">남
-			<input type="radio" name="gender">여 <br><br>
+			<input type="radio" name="gender" value="남">남
+			<input type="radio" name="gender" value="여">여 <br><br>
 			게임장르 :
-			<input type="checkbox" name="game1">액션
-			<input type="checkbox" name="game2">퍼즐
-			<input type="checkbox" name="game3">전략
-			<input type="checkbox" name="game4">리듬
+			<input type="checkbox" name="game" value="액션">액션
+			<input type="checkbox" name="game" value="퍼즐">퍼즐
+			<input type="checkbox" name="game" value="전략">전략
+			<input type="checkbox" name="game" value="리듬">리듬
 			<br><br><br><hr>
 			혈액형 :
 			<select name="blood">
