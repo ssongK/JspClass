@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>3장 연습문제</title>
+<title>3장 연습문제 9번</title>
 </head>
 <body>
 	<h3>추석 선물 </h3><hr>
-	<a href="https://www.11st.co.kr/" target="_blink">[ 자세히 보기 ]</a><br>
+	<a href="https://www.11st.co.kr/" target="_blank">[ 자세히 보기 ]</a><br>
 	<table border="3" width="80%">
 		<tr bgcolor="#CCFFAA">
 			<th>용도 </th>
