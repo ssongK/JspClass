@@ -18,8 +18,8 @@
 
 	String driverName="com.mysql.jdbc.Driver";
 	String url = "jdbc:mysql://localhost:3306/kcs_db";
-	String username = "root";
-	String password = "tele1004!";
+	String username = "myUser";
+	String password = "myUser1234";
 	Connection conn = null;
 	
 	Class.forName(driverName);
